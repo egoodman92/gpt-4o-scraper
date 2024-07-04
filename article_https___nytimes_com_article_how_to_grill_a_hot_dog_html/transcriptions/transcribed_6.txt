@@ -1,0 +1,12 @@
+<article>
+    <ul>
+        <li>Since the early 2000s, <a href="#">the variety and quality of pizza</a> made by ambitious chefs all over the United States have only gotten better. Here are <a href="#">22 of the best pizza places in the country</a>.</li>
+        <li>Golden, salty schmaltz seasons a vibrant tomato and onion salad in <a href="#">this savory dish of chicken thighs</a> from Melissa Clark.</li>
+        <li>Pink lemonade, a circus concession turned classic, is <a href="#">the drink of the summer</a> every year.</li>
+        <li>Blanketed with cheese, <a href="#">this filling stuffed pepper recipe</a> featuring spiced chickpeas is perfect for summer and surprisingly light.</li>
+    </ul>
+    <h2>Eating in New York City</h2>
+    <ul>
+        <li>The New York Times Food staff has searched all five boroughs for the <a href="#">57 sandwiches that define the city</a>, and here are <a href="#">13 of the sandwiches our readers live for</a>.</li>
+        <li>Pete Wells, our restaurant critic, ranked his <a href="#">top 100 restaurants in New York City</a>.</li>
+        <li>Almost everything on the menu at Penny in the East Village contains seafood. You sit at a counter to eat it. The

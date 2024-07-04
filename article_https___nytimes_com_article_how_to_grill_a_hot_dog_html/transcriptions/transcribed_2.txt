@@ -1,0 +1,14 @@
+```html
+<h1>Recipe: Grilled Hot Dogs</h1>
+
+<p>In tests with various brands of hot dogs (including beef, pork, poultry and plant-based) on charcoal and gas grills, and a campfire, on their own and in buns with toppings, the soundest method for consistently snappy sizzled hot dogs was also the most straightforward. Vegetable peeler and TikTok tutorials not required.</p>
+
+<p>The set up is minimal: a flame, a grate and tongs. Same with the method. Here are the three tips to keep in mind.</p>
+
+<h2>Build a fire that’s not too hot.</h2>
+
+<p>In testing, moderate heat most consistently yielded crisp outsides and hot insides. Gradually warming the hot dog minimizes the risk of bursting and allows more time over the fire to pick up smoky flavor. <a href="#">To get that not-too-hot temperature</a>, wait for a charcoal fire to move past blazing to smoldering coals that are coated in ash, or set your gas grill to 325 degrees to 375 degrees. You should be able to hold your hand four to five inches above the grates for six to seven seconds.</p>
+
+<h2>Skip extra prep and steps.</h2>
+
+<p>Halving a hot dog lengthwise so it lies flat on the grill like an open book makes it very crispy and creates a convenient channel to hold toppings, but the meat curls
