@@ -1,9 +1,0 @@
-```html
-<h1>By Ali Slagle</h1>
-<p>Ali Slagle grilled over 40 hot dogs to find this smart, streamlined way to celebrate summer.</p>
-<p>July 3, 2024</p>
-
-<p>Freeze a hot dog until it’s solid. That’s the first step to cooking one, according to <a href="link">a video</a> published last month and now viewed tens of millions of times. The icy cold hot dog is then shaved with a vegetable peeler and air-fried into bouncy curls.</p>
-
-<p>In other videos, hot dogs have undergone more extreme treatments: <a href="link">sliced into ringlets</a> and pine cones or <a href="link">slashed with cross hatches</a> and <a href="link">fish scales</a>. Though these preparations promise browned bits and quicker cook times, not all glow-ups are worth the effort.</p>
-```
