@@ -32,4 +32,5 @@ python3 2_image_dir_to_gpt4.py "$ARTICLE_DIR"
 echo "Running 3_combine_transcriptions.py $ARTICLE_DIR"
 python3 3_combine_transcriptions.py "$ARTICLE_DIR"
 
-echo "Pipeline completed for $NYT_URL. The final article is saved in $ARTICLE_DIR/final.txt"
+echo "Pipeline completed for $NYT_URL. The final article is saved in 
+$ARTICLE_DIR/final.txt"
